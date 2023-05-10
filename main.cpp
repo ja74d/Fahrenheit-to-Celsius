@@ -2,7 +2,7 @@
 
 
 int main(){
-    float F = 0, Celcus;
+    float F, Celcus;
     std::cout << "Enter the temperature:";
     std::cin >> F;
     Celcus = ((F-32)*5)/9;
